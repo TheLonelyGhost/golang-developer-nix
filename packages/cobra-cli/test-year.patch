@@ -1,0 +1,45 @@
+From 718a9b1eb938b3407f20eeb7de34d9046c129787 Mon Sep 17 00:00:00 2001
+From: Ivan Kovnatsky <75213+ivankovnatsky@users.noreply.github.com>
+Date: Fri, 20 Jan 2023 11:33:18 +0200
+Subject: [PATCH] Bump to 2023 year in testdata
+
+---
+ cmd/testdata/main.go.golden | 2 +-
+ cmd/testdata/root.go.golden | 2 +-
+ cmd/testdata/test.go.golden | 2 +-
+ 3 files changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/cmd/testdata/main.go.golden b/cmd/testdata/main.go.golden
+index 714c24f..ee48018 100644
+--- a/cmd/testdata/main.go.golden
++++ b/cmd/testdata/main.go.golden
+@@ -1,5 +1,5 @@
+ /*
+-Copyright © 2022 NAME HERE <EMAIL ADDRESS>
++Copyright © 2023 NAME HERE <EMAIL ADDRESS>
+ 
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+diff --git a/cmd/testdata/root.go.golden b/cmd/testdata/root.go.golden
+index f23bb6d..233ea5b 100644
+--- a/cmd/testdata/root.go.golden
++++ b/cmd/testdata/root.go.golden
+@@ -1,5 +1,5 @@
+ /*
+-Copyright © 2022 NAME HERE <EMAIL ADDRESS>
++Copyright © 2023 NAME HERE <EMAIL ADDRESS>
+ 
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+diff --git a/cmd/testdata/test.go.golden b/cmd/testdata/test.go.golden
+index 1fb39e2..4e7520e 100644
+--- a/cmd/testdata/test.go.golden
++++ b/cmd/testdata/test.go.golden
+@@ -1,5 +1,5 @@
+ /*
+-Copyright © 2022 NAME HERE <EMAIL ADDRESS>
++Copyright © 2023 NAME HERE <EMAIL ADDRESS>
+ 
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+
